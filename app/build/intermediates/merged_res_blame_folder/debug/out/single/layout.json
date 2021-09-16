@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ab017ev/Desktop/Training/DemoApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game.xml",
+        "source": "/Users/ab017ev/Desktop/Training/DemoApp/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/ab017ev/Desktop/Training/DemoApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/ab017ev/Desktop/Training/DemoApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ab017ev/Desktop/Training/DemoApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_title.xml",
+        "source": "/Users/ab017ev/Desktop/Training/DemoApp/app/src/main/res/layout/fragment_title.xml"
+    }
+]

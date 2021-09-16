@@ -1,0 +1,10 @@
+com/example/demoapp/databinding/FragmentGameBinding.java
+ com.example.demoapp.databinding.FragmentGameBinding
+com/example/demoapp/databinding/ActivityMainBinding.java
+ com.example.demoapp.databinding.ActivityMainBinding
+com/example/demoapp/DataBindingTriggerClass.java
+ com.example.demoapp.DataBindingTriggerClass
+com/example/demoapp/databinding/FragmentTitleBinding.java
+ com.example.demoapp.databinding.FragmentTitleBinding
+com/example/demoapp/BuildConfig.java
+ com.example.demoapp.BuildConfig
